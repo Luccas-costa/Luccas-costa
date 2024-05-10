@@ -1,7 +1,6 @@
 |- Português -|
 
-- Olá, eu sou o Luccas, sou estudante de programação, ja tenho alguns trabalhos na área,
-- sendo um deles o {Teko bag's} -> uma stratup de bag's ecológicas, que se encontra em meus repositórios.
+- Olá, eu sou o Luccas, sou estudante de programação, ja tenho alguns trabalhos na área, sendo um deles o {Teko bag's} -> uma stratup de bag's ecológicas, que se encontra em meus repositórios.
 - Sou apaixonada no que faço e adoraria novos desafios para meu cominho nesta área tão bonita.
 
 |- English -|
