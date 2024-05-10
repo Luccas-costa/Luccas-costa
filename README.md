@@ -5,6 +5,5 @@
 
 |- English -|
 
-- Hello, I'm Luccas, I'm a programming student, I already have some work in the area,
-- one of them being {Teko bag's} -> a stratup of ecological bags, which can be found in my repositories.
+- Hello, I'm Luccas, I'm a programming student, I already have some work in the area, one of them being {Teko bag's} -> a stratup of ecological bags, which can be found in my repositories.
 - I am passionate about what I do and would love new challenges for my journey in this beautiful area.
