@@ -1,12 +1,10 @@
 <h1 align="center">Hello, I'm Lucas 👋</h1>
 
-###
+<hr/>
 
 <div align="center">
   <img height="300" & border_radius=20 src="./129001931.png"  />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">
@@ -23,7 +21,6 @@
   </a>
 </div>
 
-###
 <hr/>
 
 <div align="center">
@@ -68,7 +65,7 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
-###
+<hr/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luccas-costa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=pt-br&hide_border=false&order=1&custom_title=Luccas%20costa" height="150" alt="stats graph"  />
