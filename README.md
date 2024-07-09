@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Lucas 👋</h1>
 
-<hr/>
+###
 
 <div align="center">
   <img height="300" & border_radius=20 src="./129001931.png"  />
