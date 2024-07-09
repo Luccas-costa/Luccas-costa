@@ -1,4 +1,5 @@
-<p align="left">Hello World!!</p>
+<h1 align="left">Hello, I'm Lucas 👋</h1>
+<hr/>
 
 ###
 
