@@ -2,8 +2,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="./129001931.png"  />
+<div align="center" border_radius=20>
+  <img height="400" src="./129001931.png"  />
 </div>
 
 ###
